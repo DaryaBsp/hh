@@ -1,0 +1,5 @@
+torch
+transformers
+scikit-learn
+aiogram==2.22.1 
+
